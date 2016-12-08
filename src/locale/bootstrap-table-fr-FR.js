@@ -19,6 +19,9 @@
         formatSearch: function () {
             return 'Rechercher';
         },
+        formatPaginationSwitch: function () {
+            return 'Masquer/Afficher pagination';
+        },
         formatNoMatches: function () {
             return 'Aucun résultat trouvé';
         },
